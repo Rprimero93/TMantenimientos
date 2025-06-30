@@ -36,6 +36,7 @@ th, td {
 th {
     background-color: #0B3041;
     font-weight: bold;
+    color: #f9f9f9;
 }
 
 /* Efecto hover para las filas */
