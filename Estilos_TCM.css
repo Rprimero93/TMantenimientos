@@ -27,14 +27,14 @@ table {
 
 /* Estilos para celdas (th y td) */
 th, td {
-    padding: 12px;
+    padding: 10px;
     text-align: left;
     border: none;
 }
 
 /* Estilos para el encabezado de la tabla */
 th {
-    background-color: #f2f2f2;
+    background-color: #0B3041;
     font-weight: bold;
 }
 
