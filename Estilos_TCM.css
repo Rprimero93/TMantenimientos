@@ -1,11 +1,10 @@
 /* Estilos para la tabla de categorías y cantidades */
 /* Autor: [Tu nombre] - Fecha: [Fecha de creación] */
 
-/* Estilos generales del body */
+/* Reset del body (sin fondo ni padding) */
 body {
-    background-color: #f5f5f5;
+    background-color: transparent;
     margin: 0;
-    padding: 20px;
 }
 
 /* Contenedor principal de la tabla */
@@ -41,7 +40,7 @@ th {
 
 /* Efecto hover para las filas */
 tr:hover {
-    background-color: rgba(71, 212, 90, 0.43); /* #47D45A con 43% de opacidad */
+    background-color: rgba(71, 212, 90, 0.43);
 }
 
 /* Color alternado para filas pares */
